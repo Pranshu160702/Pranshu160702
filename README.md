@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranshu Agrawal
 - 👀 I am a student who believes in learning, acquiring and then giving.
-- 🌱 I’m currently learning the concepts of Machine Learning & Aritficial Intelligence.
+- 🌱 I have good expirience in Python & Django Development along with HTML/CSS/JS. I’m currently working on the concepts of Machine Learning & Aritficial Intelligence.
 - 📫 You can ping me via email : pranshu1607@gmail.com
 
 <!---
